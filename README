@@ -1,7 +1,3 @@
-Ido Zada - 203531058
-Niv Naory - 204574529
-
-
 In this folder you have 6 files:
 1. main.c
 2. cFunctions.c
@@ -13,8 +9,7 @@ In this folder you have 6 files:
 
 Instructions to execute this program:
 
-1. Extract the folder 203531058_204574529.
-2. Open the terminal form this folder.
-3. Enter the command $ make build.
-4. Enter the command $ make run < <"file_name"> to execute the program such as make run < data16.txt.
-5. You show the result of histogram.
+1. Open the terminal form this folder.
+2. Enter the command $ make build.
+3. Enter the command $ make run < <"file_name"> to execute the program such as make run < data16.txt.
+4. You show the result of histogram.
